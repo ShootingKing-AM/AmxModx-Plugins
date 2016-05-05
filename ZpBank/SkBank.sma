@@ -1,7 +1,7 @@
 #include <amxmodx>
 #include <nvault>
 #include <zombieplague>
-#include <iplock>
+// #include <iplock>
 
 #define TASKLOAD	72381
 #define TASKHUD		81234
